@@ -9,7 +9,7 @@
 <h1 align="center">Welcome to ☠️Izanami's Github Profile☠️!!!</h1>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Izanami-Chan&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izanami-Chan&layout=compact&theme=github_dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Izanami-Chan&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false" />
 </p>
 
 <p align="center">
