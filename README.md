@@ -12,6 +12,7 @@
 <p align="center">
   <strong><a href="https://iamizanami.com">Official Website</a></strong> |
   <strong><a href="https://discordid.netlify.app/?id=916122735153926214">Discord</a></strong> |
+<strong><a href="mailto:me@iamizanami.com">Mail Me</a></strong>
 
 </p>
 
