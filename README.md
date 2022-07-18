@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://iamizanami.com"><img src="banner.gif" alt="Izanami-Chan's Banner"></a>
+  <a href="https://iamizanami.com"><img style="border-radius: 50%;" src="banner.gif" alt="Izanami-Chan's Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://iamizanami.com">Izanami</a>!</h1>
