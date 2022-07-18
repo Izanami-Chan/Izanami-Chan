@@ -1,11 +1,13 @@
 <p align="center">
   <a href="https://iamizanami.com"><img src="banner.gif" alt="Izanami-Chan's Banner"></a>
-  <style>
+  
+</p>
+<style>
   img {
   border-radius: 50%;
 }
   </style>
-</p>
+  
 
 <h1 align="center">Hi, I'm <a href="https://iamizanami.com">Izanami</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
