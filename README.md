@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://iamizanami.com"><img width=512 height=512 src="lord.gif" alt="Izanami-Chan's Banner"></a>
+  <a href="https://iamizanami.com"><img width=250 height=250 src="lord.gif" alt="Izanami-Chan's Banner"></a>
   
 </p>
 
@@ -19,4 +19,4 @@
 
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Piracy.</p>
