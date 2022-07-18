@@ -6,7 +6,7 @@
   
 
 <h1 align="center">Hi, I'm <a href="https://iamizanami.com">Izanami</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ Heh</h1>
+<h1 align="center">Welcome to ☠️Izanami's Github Profile☠️!!!</h1>
 
 <p align="center">
   <a href="https://github.com/Izanami-Chan"><img src="https://github-readme-stats.vercel.app/api?username=Izanami-Chan&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
