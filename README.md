@@ -19,4 +19,4 @@
 
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Piracy.</p>
+<p align="center"><strong><i>"We Seek The Truth And Yet We Convince Ourselfs That Lie Is The truth"</i></strong></p>
