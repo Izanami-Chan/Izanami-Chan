@@ -19,4 +19,4 @@
 
 </p>
 
-<p align="center"><strong><i>" I’m rather proud of my ability to tell lies. I can trick not only others but even my own heart "</i></strong></p>
+<p align="center"><strong><i>" I’m rather proud of my ability to tell lies. I can trick not only others but even my own heart."</i></strong></p>
